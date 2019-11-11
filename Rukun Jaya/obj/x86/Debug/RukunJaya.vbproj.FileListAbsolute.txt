@@ -1,0 +1,438 @@
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\bin\Debug\RukunJaya.exe.config
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\bin\Debug\RukunJaya.exe
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\bin\Debug\RukunJaya.pdb
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\bin\Debug\RukunJaya.xml
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\bin\Debug\RjLibrary.pdb
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\bin\Debug\RjLibrary.xml
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLogin.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmUtama.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.Resources.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.exe
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.xml
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.pdb
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterGudang.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailMasterGudang.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLog.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLogAdmin.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmHistory.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailPerusahaan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterPerusahaan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailJenisMaintance.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterJenisMaintance.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailSopir.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMastersopir.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailInventory.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterInventory.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterSupplier.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailSupplier.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailBarang.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterBarang.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailPerwakilan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterPerwakilan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailJenisKendaraan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterJenisKendaraan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailMasterKendaraan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterKendaraan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailMasterSPBU.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterSPBU.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailMasterOperational.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterOperational.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailBank.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterBank.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailBiayaLain.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.FrmMasterBiayaLain.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmBonMuat.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmbm.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmBrowseKendaraan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmBrowsesopir.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanPengeluaran.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterLaporanPengeluaran.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.Form1.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailKasBon.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterKasBon.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmBrowseBarang.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmBrowseBM.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmInputBM.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanKasBon.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterLaporanKasBon.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailTarif.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.FrmTarif.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailUjiKir.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmUjiKir.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailMaintance.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMaintance.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmBackup.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmCreateUser.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmChangePassword.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmAbout.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanMaintance.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.FrmLihatLaporanMaintance.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmCariSparepart.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetilBeliSparePart.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmPembelianSparepart.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanMaintanceKendaraan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmCatatKilometer.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmTotalSopir.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmTransaksiSetOngkos.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetilSetOngkos.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmSetorSuratJalan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmlaporan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanPembelian.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmParameter.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmSearchSparePart.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmdetailsearchsparepart.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailBM.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailSJ.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailVoucher.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmSuratJalan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmVoucher.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmSearchBonMuat.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmbayardetailtagihanspbu.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmbayartagihanspbu.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmdetailtagihanspbu.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmtagihanspbu.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmprintbonvoucher.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmbonvoucher.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmCetakVoucher.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmcetaklaporan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmCariDetilSuratJalan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailLKuat.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanSuratJalan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLKuat.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmCetakBonMuat.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.FrmMasterLaporanSJ.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanUjiKir.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLaptotalan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmSetAkses.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLapStokOpname.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmCetaktagihanspbu.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterLaporanKendaraan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetilSetOngkosSupllierAngkutMuat.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetilSetOngkosSupplierBorongan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetilSetOngkosSupplierBoronganUnit.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmTransaksiSetOngkosSupplier.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmPemasukan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailPemasukan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailPengeluaran.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmPengeluaran.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailRugiLaba.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmRugiLaba.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.FormBuatKwitansi.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmBuatPenagihan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmSerachSJBuatPenagihan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmSerachSJPenagihan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmBayarTagihan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanHistoryHarga.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.vbprojResolveAssemblyReference.cache
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.vbproj.GenerateResource.Cache
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanBukuMuatan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanPengeluaranBarang.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\bin\Debug\RukunJaya.exe.config
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.exe
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.xml
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.pdb
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\bin\Debug\RukunJaya.exe
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\bin\Debug\RukunJaya.pdb
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\bin\Debug\RukunJaya.xml
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.vbprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.Form1.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.FormBuatKwitansi.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmAbout.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmBackup.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmbayardetailtagihanspbu.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmBayarTagihan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmbayartagihanspbu.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmbm.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmBonMuat.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmbonvoucher.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmBrowseBarang.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmBrowseBM.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmBrowseKendaraan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmBrowsesopir.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmBuatPenagihan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmCariDetilSuratJalan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmCariSparepart.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmCatatKilometer.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmCetakBonMuat.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmcetaklaporan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmCetaktagihanspbu.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmCetakVoucher.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmChangePassword.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmCreateUser.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailBank.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailBarang.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailBiayaLain.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailBM.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailInventory.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailJenisKendaraan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailJenisMaintance.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailKasBon.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailLKuat.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailMaintance.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailMasterGudang.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailMasterKendaraan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailMasterOperational.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailMasterSPBU.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailPemasukan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailPengeluaran.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailPerusahaan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailRugiLaba.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmdetailsearchsparepart.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailSJ.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailSopir.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailPerwakilan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailSuratJalan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmdetailtagihanspbu.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailTarif.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailUjiKir.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailVoucher.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetilBeliSparePart.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetilSetOngkos.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetilSetOngkosSupllierAngkutMuat.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetilSetOngkosSupplierBorongan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetilSetOngkosSupplierBoronganUnit.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmHistory.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmInputBM.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmlaporan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanBukuMuatan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanHistoryHarga.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanKasBon.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanMaintance.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanMaintanceKendaraan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanPembelian.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanPengeluaran.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanPengeluaranBarang.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanSuratJalan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanUjiKir.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmLapStokOpname.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmLaptotalan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmLihatLaporanMaintance.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmLKuat.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmLog.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmLogAdmin.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmLogin.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmMaintance.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterBank.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterBarang.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.FrmMasterBiayaLain.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterGudang.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterInventory.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterJenisKendaraan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterJenisMaintance.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterKasBon.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterKendaraan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterLaporanKasBon.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterLaporanKendaraan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterLaporanPengeluaran.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.FrmMasterLaporanSJ.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterOperational.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterPerusahaan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterPerwakilan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmMastersopir.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterSPBU.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterSupplier.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailSupplier.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmParameter.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmPemasukan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmPembelianSparepart.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmPengeluaran.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmprintbonvoucher.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmRugiLaba.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmSearchBonMuat.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmSerachSJBuatPenagihan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmSerachSJPenagihan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmSearchSparePart.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmSetAkses.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmTransaksiSetOngkos.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmTransaksiSetOngkosSupplier.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmSetorSuratJalan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmSuratJalan.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmtagihanspbu.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.FrmTarif.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmTotalSopir.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmUjiKir.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmUtama.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.frmVoucher.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.Resources.resources
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\obj\x86\Debug\RukunJaya.vbproj.GenerateResource.Cache
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\bin\Debug\RjLibrary.pdb
+C:\Users\Eric\Desktop\Rukun Jaya Eric (Transaksi Sparepart ) 01-12-2014\RukunJaya\bin\Debug\RjLibrary.xml
+C:\Users\PSSIB\Desktop\RukunJaya\bin\Debug\RukunJaya.exe.config
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.exe
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.xml
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.pdb
+C:\Users\PSSIB\Desktop\RukunJaya\bin\Debug\RukunJaya.exe
+C:\Users\PSSIB\Desktop\RukunJaya\bin\Debug\RukunJaya.pdb
+C:\Users\PSSIB\Desktop\RukunJaya\bin\Debug\RukunJaya.xml
+C:\Users\PSSIB\Desktop\RukunJaya\bin\Debug\RjLibrary.pdb
+C:\Users\PSSIB\Desktop\RukunJaya\bin\Debug\RjLibrary.xml
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.vbprojResolveAssemblyReference.cache
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.Form1.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.FormBuatKwitansi.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmAbout.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmBackup.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmbayardetailtagihanspbu.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmBayarTagihan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmbayartagihanspbu.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmbm.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmBonMuat.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmbonvoucher.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmBrowseBarang.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmBrowseBM.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmBrowseKendaraan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmBrowsesopir.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmBuatPenagihan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmCariDetilSuratJalan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmCariSparepart.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmCatatKilometer.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmCetakBonMuat.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmcetaklaporan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmCetaktagihanspbu.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmCetakVoucher.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmChangePassword.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmCreateUser.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailBank.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailBarang.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailBiayaLain.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailBM.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailInventory.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailJenisKendaraan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailJenisMaintance.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailKasBon.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailLKuat.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailMaintance.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailMasterGudang.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailMasterKendaraan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailMasterOperational.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailMasterSPBU.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailPemasukan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailPengeluaran.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailPerusahaan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailRugiLaba.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmdetailsearchsparepart.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailSJ.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailSopir.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailPerwakilan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailSuratJalan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmdetailtagihanspbu.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailTarif.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailUjiKir.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailVoucher.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetilBeliSparePart.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetilSetOngkos.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetilSetOngkosSupllierAngkutMuat.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetilSetOngkosSupplierBorongan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetilSetOngkosSupplierBoronganUnit.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmHistory.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmInputBM.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmlaporan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanBukuMuatan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanHistoryHarga.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanKasBon.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanMaintance.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanMaintanceKendaraan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanPembelian.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanPengeluaran.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanPengeluaranBarang.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanSuratJalan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanUjiKir.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmLapStokOpname.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmLaptotalan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmLihatLaporanMaintance.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmLKuat.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmLog.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmLogAdmin.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmLogin.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmMaintance.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterBank.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterBarang.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.FrmMasterBiayaLain.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterGudang.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterInventory.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterJenisKendaraan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterJenisMaintance.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterKasBon.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterKendaraan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterLaporanKasBon.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterLaporanKendaraan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterLaporanPengeluaran.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.FrmMasterLaporanSJ.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterOperational.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterPerusahaan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterPerwakilan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmMastersopir.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterSPBU.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterSupplier.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailSupplier.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmParameter.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmPemasukan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmPembelianSparepart.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmPengeluaran.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmprintbonvoucher.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmRugiLaba.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmSearchBonMuat.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmSerachSJBuatPenagihan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmSerachSJPenagihan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmSearchSparePart.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmSetAkses.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmTransaksiSetOngkos.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmTransaksiSetOngkosSupplier.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmSetorSuratJalan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmSuratJalan.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmtagihanspbu.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.FrmTarif.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmTotalSopir.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmUjiKir.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmUtama.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.frmVoucher.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.Resources.resources
+C:\Users\PSSIB\Desktop\RukunJaya\obj\x86\Debug\RukunJaya.vbproj.GenerateResource.Cache
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\bin\Debug\RjLibrary.dll
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmOperationalKendaraan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailOperationalKendaraan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.vbproj.ResolveComReference.cache
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmExportExcel.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanOperationalKendaraan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmKas.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailKas.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmKasHarian.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmReportKasHarian.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMasukSparePart.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetilMutasiMasuk.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMutasiMasuk.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmdetailpeminjamanalat.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmdetailPeralatan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmdetilpengembalianAlat.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterPeralatan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmPeminjamanALat.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmPengembalianAlat.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMutasiKeluar.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailMutasiKeluar.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmAkses.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmdetilhistorymutasi.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetilMutasi.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMutasi.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmSearchPembelian.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmStokBarang.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmUbahHarga.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailUbahHarga.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanMutasi.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanMutasiKeluar.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanMutasiMasuk.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanPengeluaranSparePart.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLapGTotalan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanMaintenanceKendaraan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterBiaya.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.FrmDetailMasterBiaya.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailSuratJalanOld.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmDetailSuratJalan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmTotalSopirBaru.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmIsiDetailBiaya.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmTotalanAkhirBaru.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmPrintOperasionalKendaraan.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterDetailGrandBiaya.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmMasterGrandBiaya.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmTotalanAkhirNew.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmTotalanAkhir.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmRealisasi.resources
+C:\Users\Hartarto Junaedi\Documents\Visual Studio 2010\Projects\RukunJaya\RukunJaya\obj\x86\Debug\RukunJaya.frmLaporanRealisasi.resources
